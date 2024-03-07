@@ -1,0 +1,24 @@
+h1{
+text-align: center;
+color: rgba(0, 0, 255, 0.6);
+}
+body{
+background-color: blanchedalmond;
+}
+div{
+border: 15px solid green; 
+padding: 50px;
+background-color: yellow;
+margin: 20px;
+text-transform: capitalize;
+line-height:normal;
+font-size: 20px;
+}
+
+button{
+background-color: gold;
+border: 4px solid black;
+border-radius: 8px;
+font-size: x-large;
+ text-transform: uppercase;
+}
